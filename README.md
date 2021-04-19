@@ -2,3 +2,8 @@ https://github.com/zhangyilin-98/PHP-Exercises/blob/main/Getting-started-with-ph
 https://github.com/zhangyilin-98/PHP-Exercises/blob/main/%20php-built-in-functions.png
 https://github.com/zhangyilin-98/PHP-Exercises/blob/main/conditionals-and-logic-in-php.png
 https://github.com/zhangyilin-98/PHP-Exercises/blob/main/html-form-handling-in-php.png
+https://github.com/zhangyilin-98/PHP-Exercises/blob/main/introduction-to-functions-in-php.png
+https://github.com/zhangyilin-98/PHP-Exercises/blob/main/learn-php-arrays.png
+https://github.com/zhangyilin-98/PHP-Exercises/blob/main/learn-php-variables.png
+https://github.com/zhangyilin-98/PHP-Exercises/blob/main/loops-in-php.png
+https://github.com/zhangyilin-98/PHP-Exercises/blob/main/php-form-validation.png
